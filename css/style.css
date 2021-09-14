@@ -16,3 +16,18 @@ h2 {
     font-size: 30px;
     font-family: 'Urbanist', sans-serif;
 }
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+img {
+    width: 320px;
+    height: 250px;
+}

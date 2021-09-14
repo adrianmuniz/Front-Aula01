@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Urbanist:wght@100&display=swap');
+
+h1 {
+    color:rgb(255, 0, 0);
+    font-size: 40px;
+    font-family: 'Urbanist', sans-serif;}
+
+p {
+    color: rgb(34, 33, 92);
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    color:brown;
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+}
